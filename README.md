@@ -21,7 +21,7 @@
 
 ## How to access
 
-git clone 
+git clone https://github.com/tresamjohn/NewsLegitimacy.git
 
 
 ## An outline about the Folders and files
