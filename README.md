@@ -21,6 +21,31 @@
 
 ## How to access
 
-git clone https://github.com/tresamjohn/NewsLegitimacy.git
+git clone 
+
+
+## An outline about the Folders and files
+
+_smokeSuite Folder_
+1. smokeSuite.feature --> Feature file where scenarios are described.
+2. smokeSuite_stepDefinition.js --> Step Definition file
+
+_fixtures_ Folder_
+1. This folder is created to add and maintain testdata according to the pages.
+
+_pages_
+1. This folder is created to add and maintain each pages in the page object model. functions used in the step definition file are written in these files.
+
+_PageObjects_
+1. The element locators are added in this folder according to the pages.
+
+_Command.js_
+1. The commonly used functions/commands are added here, example setting the browser view size.
+
+
+
+## Kindly Note:
+If you find difficulty in understanding the framework or accessing the same, feel free to get in touch: tresamjohn@gmail.com
+Thank you for your time!
 
 
